@@ -1,16 +1,14 @@
-# Git-training-
-## project notes
-
-
-
-
-
-### commit changes
-
-
-
-###push project
-
-
-
+#GIT TRAINING
+	git consepts
+	
+	
+	
+	
+	
+##GIT USES
+	----
+	
+	
+	
+###GIT STUFFS
 
